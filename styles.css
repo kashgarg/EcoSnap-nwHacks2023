@@ -1,0 +1,12 @@
+body {
+    background-color: #097969;
+    /* color: white;
+    font-family: "Coming Soon"; */
+}
+
+.header {
+    background-color: #AFE1AF;
+    color: white;
+    font-family: "Coming Soon";
+    flex-direction: row;
+}
