@@ -4,9 +4,15 @@ body {
 
 .header {
     background-color: #AFE1AF;
-    padding: 60px;
+    padding: 100px;
     text-align: center;
     background: #1abc9c;
     color: white;
     font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.logo {
+    float: left;  
 }
