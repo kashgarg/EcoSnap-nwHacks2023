@@ -2,6 +2,10 @@ body {
     background-color: #097969
 }
 
+body{
+    color: white;
+}
+
 .header {
     background-color: #AFE1AF;
     padding: 10px;
