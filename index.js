@@ -55,4 +55,9 @@ function getResults(){
         }
     }
     console.log(sum);
+    document.getElementById("your-score").innerHTML = sum;
+    document.getElementById("header1").style.visibility = "visible";
+    document.getElementById("header2").style.visibility = "visible";
+    document.getElementById("div1").style.visibility = "visible";
+    document.getElementById("your-score").style.visibility = "visible";
 }
