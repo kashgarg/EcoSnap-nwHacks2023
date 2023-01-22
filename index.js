@@ -50,6 +50,7 @@ function getResults(){
             radButtonValue = +radButtonValue;
             if(radioButton.checked){
                 sum += radButtonValue;
+                break;
             }
         }
     }
