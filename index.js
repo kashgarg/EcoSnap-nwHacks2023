@@ -1,10 +1,10 @@
-let sum = 0;
-sum = +sum;
-let stringId1;
-let stringId2;
-let stringId3;
-
 function getResults(){
+    let sum = 0;
+    sum = +sum;
+    let stringId1;
+    let stringId2;
+    let stringId3;
+
     for(let n = 1; n <= 6; n++){
         switch(n) {
             case 1:
