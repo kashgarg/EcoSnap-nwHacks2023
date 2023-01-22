@@ -4,6 +4,8 @@ body {
 
 body{
     color: white;
+    text-shadow: 2px 2px #000000;
+    letter-spacing: 2px;
 }
 
 .header {
@@ -43,6 +45,7 @@ body{
     font-size: 20px;
     border: none;
     font-family: "Coming Soon";
+    letter-spacing: 2px;
 }
 
 .results-btn:hover {
