@@ -65,3 +65,14 @@ body{
 .flex-child:first-child {
     margin-right: 20px;
 } 
+
+.column {
+    float: left;
+    width: 30%;
+}
+
+.centerColumn {
+    float: left;
+    width: 40%;
+}
+
