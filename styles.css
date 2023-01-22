@@ -68,3 +68,26 @@ body{
 .flex-child:first-child {
     margin-right: 20px;
 } 
+
+.column {
+    float: left;
+    width: 30%;
+}
+
+.centerColumn {
+    float: left;
+    width: 40%;
+}
+
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
