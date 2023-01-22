@@ -34,3 +34,7 @@ body {
 .results-btn:hover {
     transform: scale(1.2);
 }
+
+.questions {
+    text-align: center;
+}
