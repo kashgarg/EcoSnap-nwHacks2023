@@ -1,5 +1,5 @@
 # EcoSnap
-Link: https://kashgarg.github.io/EcoSnap/
+Link: https://kashgarg.github.io/EcoSnap-nwHacks2023/
 
 ## **What is EcoSnap?**
 EcoSnap assesses an individual's carbon footprint through a series of multiple choice questions. The program then generates a proxy for the user's carbon footprint and compares it to the average carbon footprint of a person. This allows users to gain insight into their own environmental impact and make changes to reduce their carbon footprint.
